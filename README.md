@@ -9,11 +9,10 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [🔧 Root Manager Tools](#-root-manager-tools)
 - [📦 Magisk Modules](#-magisk-modules)
 - [🧩 LSPosed Xposed Apps](#-lsposed-xposed-apps)
-- [⚙️ Kernel](#-kernel)
+- [⚙️ Kernel](#kernel) <!-- 🛠 Fix here -->
 - [📱 Apps](#-apps)
-- [🛠️ Various Fixes](#-various-fixes)
+- [🛠️ Various Fixes](#various-fixes) <!-- 🛠 Fix here -->
 - [🙏 Credits](#-credits)
-
 
 ---
 
