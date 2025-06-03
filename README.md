@@ -87,6 +87,12 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **NoHello (Hide Root)**  
 🔗 [https://github.com/MhmRdd/NoHello)
 
+– **Zygisk Detach**  
+🔗 [https://github.com/j-hc/zygisk-detach)
+
+– **Better Known Installed (BKI)**  
+🔗 [https://github.com/Pixel-Props/BetterKnownInstalled)
+
 ---
 
 ## 🧩 LSPosed Xposed Apps
@@ -102,7 +108,6 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **Pixelify Google Photos**  
 🔗 [https://github.com/BaltiApps/Pixelify-Google-Photos)
-
 
 ---
 
