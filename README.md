@@ -11,8 +11,9 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [🧩 LSPosed Xposed Apps](#-lsposed-xposed-apps)
 - [⚙️ Kernel](#-kernel)
 - [📱 Apps](#-apps)
-- [🛠️ Many Fix](#-many-fix)
+- [🛠️ Various Fixes](#-various-fixes)
 - [🙏 Credits](#-credits)
+
 
 ---
 
@@ -140,7 +141,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ---
 
-## 🛠️ Many Fix
+## 🛠️ Various Fixes
 
 – **Root, Hide, Whatsapp bypass etc**  
 🔗 [https://github.com/yashaswee-exe/AndroidGuides/wiki)
