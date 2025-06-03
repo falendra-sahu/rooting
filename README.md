@@ -84,4 +84,6 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **WhatsApp (v2.24.8.xx)**  
 🔗 [https://whatsapp-messenger.en.uptodown.com/android/download/1064586136](https://whatsapp-messenger.en.uptodown.com/android/download/1064586136)
 
+– **Root Dector Apps**  
+🔗 [https://github.com/MeowDump/RootDetectionApps)
 ---
