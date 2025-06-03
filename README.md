@@ -114,6 +114,9 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Root Detector Apps**  
 🔗 [https://github.com/MeowDump/RootDetectionApps](https://github.com/MeowDump/RootDetectionApps)
 
+– **DataBackup**  
+🔗 [https://github.com/XayahSuSuSu/Android-DataBackup)
+
 ---
 
 ## 🙏 Credits
