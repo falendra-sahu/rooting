@@ -13,6 +13,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [Kernel](#kernel)
 - [Apps](#apps)
 - [Various Fixes](#various-fixes)
+- [Download Uploaded Files](https://github.com/falendra-sahu/rooting/releases/tag/Download)
 - [Credits](#credits)
 
 ---
