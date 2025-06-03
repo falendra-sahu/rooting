@@ -40,12 +40,14 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **ReZygisk**  
 🔗 [https://github.com/PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
+🔗 [https://github.com/PerformanC/ReZygisk/actions) (Pre Release)
 
 – **ZygiskNext**  
 🔗 [https://github.com/Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext)
 
 – **LSPosed**  
 🔗 [https://github.com/JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
+🔗 [https://github.com/JingMatrix/LSPosed/actions) (Pre Release)
 
 – **Play Integrity Fix**  
 🔗 [https://github.com/chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix)
@@ -65,10 +67,10 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Magisk iOS Emoji**  
 🔗 [https://github.com/Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 
-– **ViPERFX RE (App)**  
+– **ViPERFX RE (Module)**  
 🔗 [https://github.com/WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE)
 
-– **ViperFX RE (Module)**  
+– **ViperFX RE (App)**  
 🔗 [https://github.com/WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases)
 
 – **Mod Center**  
@@ -95,6 +97,10 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **WA Enhancer**  
 🔗 [https://github.com/Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
+
+– **Pixelify Google Photos**
+🔗 [https://github.com/BaltiApps/Pixelify-Google-Photos)
+
 
 ---
 
