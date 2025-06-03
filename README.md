@@ -111,6 +111,16 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ---
 
+## ⚙️ Kernel
+– **Wild Kernel**  
+🔗 [https://github.com/WildKernels/GKI_KernelSU_SUSFS)
+🔷 [Kernel Pre Tag Name use for:)
+🔹 [KSU: For KernelSu)
+🔹 [NEXT: For KernelSu Next)
+🔹 [WILD: For unknown)
+
+---
+
 ## 📱 Apps
 
 – **WhatsApp (v2.25.6.xx)**  
