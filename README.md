@@ -81,7 +81,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ## 📱 Apps
 
-– **WhatsApp (Uptodown - v2.24.8.xx)**  
+– **WhatsApp (v2.24.8.xx)**  
 🔗 [https://whatsapp-messenger.en.uptodown.com/android/download/1064586136](https://whatsapp-messenger.en.uptodown.com/android/download/1064586136)
 
 ---
