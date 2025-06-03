@@ -32,6 +32,9 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ## 📦 Magisk Modules
 
+– **Bootloop Protector**  
+🔗 [https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector)
+
 – **ReZygisk**  
 🔗 [https://github.com/PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
 
@@ -64,6 +67,18 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **ViperFX RE (Module)**  
 🔗 [https://github.com/WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases)
+
+– **Mod Center**  
+🔗 [https://github.com/Mods-Center)
+
+– **SUSFS (Hide root, for KernelSu Next**  
+🔗 [https://github.com/sidex15/susfs4ksu-module)
+
+– **Shamiko (Hide Root)**  
+🔗 [https://github.com/LSPosed/LSPosed.github.io/releases)
+
+– **NoHello (Hide Root)**  
+🔗 [https://github.com/MhmRdd/NoHello)
 
 ---
 
