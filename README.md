@@ -52,7 +52,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Tricky Addon Update Target List**  
 🔗 [https://github.com/KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List)
 
-– **Integrity Box**  
+– **Integrity Box (MeowDump)**  
 🔗 [https://github.com/MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box)
 
 – **Magisk iOS Emoji**  
