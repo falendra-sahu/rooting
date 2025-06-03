@@ -4,6 +4,15 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ---
 
+## 📚 Table of Contents
+
+- [🔧 Root Manager Tools](#-root-manager-tools)
+- [📦 Magisk Modules](#-magisk-modules)
+- [🧩 LSPosed Xposed Apps](#-lsposed-xposed-apps)
+- [📱 Apps](#-apps)
+
+---
+
 ## 🔧 Root Manager Tools
 
 – **APatch**  
