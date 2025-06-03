@@ -10,6 +10,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [📦 Magisk Modules](#-magisk-modules)
 - [🧩 LSPosed Xposed Apps](#-lsposed-xposed-apps)
 - [📱 Apps](#-apps)
+- [🙏 Credits](#-credits)
 
 ---
 
@@ -84,6 +85,14 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **WhatsApp (v2.24.8.xx)**  
 🔗 [https://whatsapp-messenger.en.uptodown.com/android/download/1064586136](https://whatsapp-messenger.en.uptodown.com/android/download/1064586136)
 
-– **Root Dector Apps**  
-🔗 [https://github.com/MeowDump/RootDetectionApps)
+– **Root Detector Apps**  
+🔗 [https://github.com/MeowDump/RootDetectionApps](https://github.com/MeowDump/RootDetectionApps)
+
 ---
+
+## 🙏 Credits
+
+This collection is curated and maintained by **[Falendra Sahu](https://github.com/falendra-sahu)**.  
+Special thanks to the original creators and maintainers of the tools, modules, and apps listed here.
+
+© 2025 **Falendra Sahu** | All rights reserved.
