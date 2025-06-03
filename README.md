@@ -1,6 +1,6 @@
 # 🔧📱📦 Rooting & Modding Setup
 
-A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for quickly setting up newly rooted Android devices.
+A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for quickly setting up newly rooted Android devices.  
 🔧📱📦📚🧩⚙️🛠️🙏🔗🔷🔹🔒🧰⚡📥📝🚀
 
 ---
