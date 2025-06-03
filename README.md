@@ -40,6 +40,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **ReZygisk**  
 🔗 [https://github.com/PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk)
+
 🔗 [https://github.com/PerformanC/ReZygisk/actions) (Pre Release)
 
 – **ZygiskNext**  
@@ -47,6 +48,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **LSPosed**  
 🔗 [https://github.com/JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed)
+
 🔗 [https://github.com/JingMatrix/LSPosed/actions) (Pre Release)
 
 – **Play Integrity Fix**  
