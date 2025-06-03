@@ -10,6 +10,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [📦 Magisk Modules](#-magisk-modules)
 - [🧩 LSPosed Xposed Apps](#-lsposed-xposed-apps)
 - [📱 Apps](#-apps)
+- [🛠️ Many Fix](#-many-fix)
 - [🙏 Credits](#-credits)
 
 ---
@@ -135,6 +136,14 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **DataBackup**  
 🔗 [https://github.com/XayahSuSuSu/Android-DataBackup)
+
+---
+
+## 🛠️ Many Fix
+
+– **Root, Hide, Whatsapp bypass etc**  
+🔗 [https://github.com/yashaswee-exe/AndroidGuides/wiki)
+
 
 ---
 
