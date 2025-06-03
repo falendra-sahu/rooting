@@ -28,6 +28,9 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Magisk (by topjohnwu)**  
 🔗 [https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
 
+– **Kistune Mask**  
+🔗 [https://github.com/1q23lyc45/KitsuneMagisk)
+
 ---
 
 ## 📦 Magisk Modules
