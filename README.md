@@ -110,6 +110,15 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Pixelify Google Photos**  
 🔗 https://github.com/BaltiApps/Pixelify-Google-Photos
 
+– **Hide My Applist**  
+🔗 https://github.com/Dr-TSNG/Hide-My-Applist
+
+– **Android Faker**  
+🔗 https://github.com/Android1500/AndroidFaker
+
+– **Enable Screenshot**  
+🔗 https://github.com/LSPosed/DisableFlagSecure
+
 ---
 
 ## Kernel
