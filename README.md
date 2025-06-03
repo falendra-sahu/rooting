@@ -115,13 +115,13 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Wild Kernel**  
 🔗 [https://github.com/WildKernels/GKI_KernelSU_SUSFS)
 
-🔷 [Kernel Pre Tag Name use for:)
+🔷 Kernel Pre Tag Name use for:
 
-🔹 [KSU: For KernelSu)
+🔹 KSU: For KernelSu
 
-🔹 [NEXT: For KernelSu Next)
+🔹 NEXT: For KernelSu Next
 
-🔹 [WILD: For unknown)
+🔹 WILD: For unknown
 
 ---
 
