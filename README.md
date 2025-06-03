@@ -100,7 +100,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **WA Enhancer**  
 🔗 [https://github.com/Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer)
 
-– **Pixelify Google Photos**
+– **Pixelify Google Photos**  
 🔗 [https://github.com/BaltiApps/Pixelify-Google-Photos)
 
 
