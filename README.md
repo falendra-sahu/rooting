@@ -58,11 +58,11 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 – **Magisk iOS Emoji**  
 🔗 [https://github.com/Keinta15/Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 
-– **ViperFX RE Releases**  
-🔗 [https://github.com/WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases)
-
-– **ViPERFX RE**  
+– **ViPERFX RE (App)**  
 🔗 [https://github.com/WSTxda/ViPERFX_RE](https://github.com/WSTxda/ViPERFX_RE)
+
+– **ViperFX RE (Module)**  
+🔗 [https://github.com/WSTxda/ViperFX-RE-Releases](https://github.com/WSTxda/ViperFX-RE-Releases)
 
 ---
 
