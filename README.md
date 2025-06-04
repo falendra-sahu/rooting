@@ -1,7 +1,6 @@
 # 🔧📱📦 Rooting & Modding Setup
 
-A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for quickly setting up newly rooted Android devices.  
-🔧📱📦📚🧩⚙️🛠️🙏🔗🔷🔹🔒🧰⚡📥📝🚀
+A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for quickly setting up newly rooted Android devices.
 
 ---
 
@@ -13,6 +12,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [Kernel](#kernel)
 - [Apps](#apps)
 - [Various Fixes](#various-fixes)
+- [Rom Recovery](#rom-recovery)
 - [Download Uploaded Files](https://github.com/falendra-sahu/rooting/releases/tag/Download)
 - [Credits](#credits)
 
@@ -141,12 +141,12 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **WhatsApp (v2.25.6.xx)**  
 🔗 https://whatsapp-messenger.en.uptodown.com/android/download/1053255132  
-🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download (Direct download)
+🔗 https://github.com/falendra-sahu/rooting/releases/download/Download/whatsapp-messenger-2-25-6-70.apk (Direct download)
 
 – **Root Detector Apps**  
 🔗 https://github.com/MeowDump/RootDetectionApps
 
-– **DataBackup**  
+– **Data Backup**  
 🔗 https://github.com/XayahSuSuSu/Android-DataBackup
 
 ---
@@ -155,6 +155,19 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **Root, Hide, WhatsApp Bypass etc.**  
 🔗 https://github.com/yashaswee-exe/AndroidGuides/wiki
+
+---
+
+## Rom Recovery
+
+– **Xiaomi firmware.**  
+🔗 https://xmfirmwareupdater.com/
+
+– **TWRP.**  
+🔗 https://twrp.me/Devices/
+
+– **OrangeFox.**  
+🔗 https://orangefox.download/
 
 ---
 
