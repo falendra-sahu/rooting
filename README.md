@@ -1,2 +1,2 @@
-Check wiki for guide:
-https://github.com/falendra-sahu/rooting/wiki (click)
+Check wiki for guide:  
+[Click here](https://github.com/falendra-sahu/rooting/wiki)
