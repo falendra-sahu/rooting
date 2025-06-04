@@ -12,6 +12,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 - [Kernel](#kernel)
 - [Apps](#apps)
 - [Various Fixes](#various-fixes)
+- [All-in-One Tech Guide](#all-in-one-tech-guide)
 - [Rom Recovery](#rom-recovery)
 - [Download Uploaded Files](https://github.com/falendra-sahu/rooting/releases/tag/Download)
 - [Credits](#credits)
@@ -151,7 +152,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ---
 
-## Various Fixes
+## All-in-One Tech Guide
 
 – **Root, Hide, WhatsApp Bypass etc.**  
 🔗 https://github.com/yashaswee-exe/AndroidGuides/wiki
@@ -160,13 +161,13 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ## Rom Recovery
 
-– **Xiaomi firmware.**  
+– **Xiaomi firmware**  
 🔗 https://xmfirmwareupdater.com/
 
-– **TWRP.**  
+– **TWRP**  
 🔗 https://twrp.me/Devices/
 
-– **OrangeFox.**  
+– **OrangeFox**  
 🔗 https://orangefox.download/
 
 ---
