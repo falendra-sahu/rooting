@@ -116,7 +116,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **Android Faker**  
 🔗 https://github.com/Android1500/AndroidFaker  
-🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download (Modded)
+🔗 https://github.com/falendra-sahu/rooting/releases/download/Download/Android.Faker_1.9.2_UNLOCKED.apk (Modded)
 
 – **Enable Screenshot**  
 🔗 https://github.com/LSPosed/DisableFlagSecure
@@ -127,7 +127,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 – **Wild Kernel**  
 🔗 https://github.com/WildKernels/GKI_KernelSU_SUSFS  
-🔗 https://github.com/falendra-sahu/rooting/releases/tag/Download (GARNET)
+🔗 https://github.com/falendra-sahu/rooting/releases/download/Download/Garnet-android12-5.10.209-2024-05-AnyKernel3-KSU-SUSFS.zip (GARNET)
 
 🔷 Kernel Tag Naming Convention:
 
