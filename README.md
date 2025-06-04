@@ -154,7 +154,7 @@ A curated collection of tools, Magisk modules, LSPosed apps, and useful APKs for
 
 ## All-in-One Tech Guide
 
-– **Root, Hide, WhatsApp Bypass etc.**  
+– **All Solutions**  
 🔗 https://github.com/falendra-sahu/rooting/wiki
 
 – **Root, Hide, WhatsApp Bypass etc.**  
